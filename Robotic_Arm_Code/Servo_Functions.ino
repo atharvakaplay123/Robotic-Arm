@@ -1,3 +1,4 @@
+// class robotic_arm: protected Servo{};
 void servo_move(Servo &servo, bool direction, int *pos, int delay_time) {
   if (direction) {
     for (int pan_pos = *pos; pan_pos < 180; pan_pos += 1) {

@@ -1,0 +1,29 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Robotic Arm
+*Date=19:39:32
+*CreatedBy=Fritzing 0.8.7b.01.24.1bf5
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;20.64;-58.2802;-90;Bottom;PCA9685
+2;;THT;38.42;-22.7202;-90;Bottom;D03
+3;;THT;38.42;-37.9602;-90;Bottom;D09
+4;;THT;39.69;-60.8202;-90;Bottom;5V_Servo
+5;;THT;38.42;-27.8002;-90;Bottom;D05
+6;;THT;38.42;-43.0402;-90;Bottom;D10
+7;;THT;6.67004;-60.8202;-90;Bottom;VCC
+8;;;1.32176;-17.5579;90;Bottom;TXT1
+9;;THT;5.40004;-54.4702;180;Bottom;SW
+10;;THT;38.42;-32.8802;-90;Bottom;D06
+11;;THT;38.42;-48.1202;-90;Bottom;D11
+12;;THT;38.42;-54.4702;180;Bottom;SW1
+13;;;20.64;-30.3487;180;Bottom;Nano
+14;;THT;19.37;-4.9402;-90;Bottom;5V GND TX RX
